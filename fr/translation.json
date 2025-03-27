@@ -1,3 +1,6 @@
 {
-  "welcome": "Bienvenue sur notre site {{userName}}, âge : {{userAge}}"
+  "welcome": "Bienvenue sur notre site {{userName}}, âge : {{userAge}}",
+  "home": "Bienvenue sur la page d'accueil",
+  "about": "À propos de nous",
+  "contact": "Contactez-nous"
 }

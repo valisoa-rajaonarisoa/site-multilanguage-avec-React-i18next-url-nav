@@ -1,3 +1,6 @@
 {
-  "welcome": "Welcome to our website {{userName}}, age: {{userAge}}"
+  "welcome": "Welcome to our website {{userName}}, age: {{userAge}}",
+  "home": "Welcome to the home page",
+  "about": "About us",
+  "contact": "Contact us"
 }
