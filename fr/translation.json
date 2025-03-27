@@ -1,0 +1,3 @@
+{
+  "welcome": "Bienvenue sur notre site {{userName}}, âge : {{userAge}}"
+}
